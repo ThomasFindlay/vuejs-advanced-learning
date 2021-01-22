@@ -77,6 +77,7 @@ If you know some courses/articles about advanced Vue patterns, in-depth explanat
 
 ### Architecture, patterns and best practices
 - [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/web-development/vuejs-design-patterns-and-best-practices)
+- [Vue - The Road To Enterprise](https://bit.ly/2Y2iFzG)
 
 ### Testing
 - [Testing Vue.js applications by Edd Yerburgh](https://www.manning.com/books/testing-vuejs-applications)
